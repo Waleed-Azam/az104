@@ -126,3 +126,8 @@ See [LICENSE](LICENSE) for more information.
 ## Acknowledgements
 
 Thanks to Laura Lewin, Mike Pfeiffer, Microsoft, and to each and every one of my students around the world.
+
+## WaleedAzam's Notes
+
+Here I think all the information are same, some of them might requires some changes, some might need to become 
+Better in a way much better.
