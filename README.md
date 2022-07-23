@@ -131,3 +131,8 @@ Thanks to Laura Lewin, Mike Pfeiffer, Microsoft, and to each and every one of my
 
 Here I think all the information are same, some of them might requires some changes, some might need to become 
 Better in a way much better.
+
+
+Some of the web api's are not working the way they should work.
+I think some of the remo are not working at all
+
