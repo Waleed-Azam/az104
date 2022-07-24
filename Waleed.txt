@@ -1,5 +1,18 @@
-I don't understand what exactly one needs here, in order to pass the AZURE 104
+Azure, 
+Cloud information here and some of the informations are missing, some of the information
+Azure, 
+Kubernatics
+Docker 
+Images and stuff
+Some more images, I need as a Kubernatics and flavours of more working in a way, where one can develop, 
+More informations; 
+-> Kubernaitcs images here 
+-> Docker images 
+-> Jenkins, 
+-> More information and the thing must happen...
 
-Here, I am not sure, how I can have an more understanding for the Azure it self as a cloud
-Some of the informations are here. 
-Not sure, how those things are going in a way, we need to presnt 
+
+## Here are some of the files are missing
+Need to understand what file is misisng,
+
+JSON or YML.
