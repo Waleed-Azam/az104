@@ -16,3 +16,6 @@ More informations;
 Need to understand what file is misisng,
 
 JSON or YML.
+
+
+## Somne of the yml are bnot working, some of the information is going up and down
